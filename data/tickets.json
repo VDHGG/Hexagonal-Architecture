@@ -1,0 +1,36 @@
+[
+  {
+    "id": "1d55ac8b-36a9-4f4a-bf36-43510016b4d1",
+    "title": "Bug login",
+    "userEmail": "test@gmail.com",
+    "phone": "0987654321",
+    "status": "đang xử lí",
+    "priority": "Expedite",
+    "tags": [],
+    "createdAt": "2026-02-11T16:16:09.613Z",
+    "updatedAt": "2026-02-11T16:16:09.613Z"
+  },
+  {
+    "id": "b5683f03-754d-43d3-9ce4-3b23b1ea1728",
+    "title": "Database slow",
+    "description": "Database query slow",
+    "userEmail": "admin@gmail.com",
+    "phone": "0912345678",
+    "status": "tiếp nhận",
+    "priority": "Priority",
+    "tags": [],
+    "createdAt": "2026-02-11T16:16:21.962Z",
+    "updatedAt": "2026-02-11T16:16:21.962Z"
+  },
+  {
+    "id": "be053eaf-31f8-49d6-940b-67260263e3ea",
+    "title": "Test Ticket",
+    "userEmail": "test@gmail.com",
+    "phone": "0987654321",
+    "status": "đang xử lí",
+    "priority": "Standard",
+    "tags": [],
+    "createdAt": "2026-02-13T07:12:20.732Z",
+    "updatedAt": "2026-02-13T07:12:42.257Z"
+  }
+]
